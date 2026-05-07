@@ -1,6 +1,6 @@
-# README - Praktikum Interface Java
+# Praktikum Interface Java
 
-## 📌 Deskripsi Program
+## Deskripsi Program
 
 Program ini dibuat untuk mensimulasikan sistem koperasi karyawan pada perusahaan NV. Meneer. Karyawan dapat berbelanja di koperasi dan pembayaran dilakukan melalui pemotongan gaji di akhir bulan.
 
@@ -13,7 +13,7 @@ Program menerapkan konsep:
 
 ---
 
-# 📂 Struktur Program
+# Struktur Program
 
 ## 1. Interface `Payable`
 
@@ -78,7 +78,7 @@ Fungsi:
 
 ---
 
-# 🧠 Konsep Interface
+# Konsep Interface
 
 Program menggunakan interface `Payable` yang diimplementasikan oleh:
 
@@ -95,7 +95,7 @@ Payable payable = invoice;
 
 ---
 
-# ▶️ Cara Menjalankan Program
+# Cara Menjalankan Program
 
 1. Compile semua file:
 
@@ -111,7 +111,7 @@ java Main
 
 ---
 
-# 📋 Contoh Output
+# Contoh Output
 
 ```text
 === DATA KARYAWAN ===
